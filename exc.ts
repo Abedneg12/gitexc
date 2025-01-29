@@ -57,6 +57,8 @@ console.log(show);
 let wrd1: string = "main roblox";
 console.log(wrd1.slice(0,1).toUpperCase() + wrd1.slice(1,5) + wrd1.slice(5,6).toUpperCase() + wrd1.slice(6,11));
 
+
+
 //no 7
 let string1: string = "The QuiCk BrOwN Fox";
 
