@@ -117,3 +117,9 @@ console.log(sh3);
 
 
 //soal 11
+let wrd3: string = "is it just my imagination?";
+let wrd4: string = "";
+
+wrd4 = wrd3.replace(/a/g, '*');
+
+console.log(wrd4); 
